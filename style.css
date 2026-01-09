@@ -1,7 +1,9 @@
 *{
     font-family: Inter;
-    max-width: 1150px;
+    max-width: 1250px;
     margin: 0 auto;
+    /* box-sizing: border-box; */
+    /* padding: 0; */
 }
 header{
     height:600px;
@@ -79,13 +81,13 @@ header{
 }
 
 .hero-h{
-    width: 490px;
-    height: 100px;
+    /* width: 490px; */
+    /* height: 100px; */
     
     color:white ;
     font-size: 32px;
    margin-top: 14px;
-   margin-left: 250px;
+   margin-left: 270px;
 
 }
 
@@ -129,7 +131,7 @@ header{
 }
 
 .hero-btn-2:hover{
-    background-color: ;
+    background-color: #30B868;
 }
 
 .card img{
@@ -146,7 +148,7 @@ header{
   
     text-align: center;
     /* margin-bottom: 400px; */
-   margin-top:20px ;
+   margin-top:50px ;
    
 
     
