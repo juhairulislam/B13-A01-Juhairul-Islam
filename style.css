@@ -71,6 +71,7 @@ header{
     border-radius: 600px;
     padding: 6px;
     margin-left: 420px;
+    margin-bottom: 20px;
    
 }
 
@@ -87,7 +88,7 @@ header{
     color:white ;
     font-size: 32px;
    margin-top: 14px;
-   margin-left: 270px;
+   margin-left: 250px;
 
 }
 
@@ -95,7 +96,7 @@ header{
     font-size: 11px;
     /* border:2px solid red; */
     width: 450px;
-    margin:18px auto auto 270px ;
+    margin:30px auto auto 270px ;
     color: white;
     font-weight: 200;
     text-align: center;
@@ -461,6 +462,10 @@ border-radius: 8px;
    
     height: 20px;
 
+}
+
+.copyright p hr{
+    color: #F95555;
 }
 
 
