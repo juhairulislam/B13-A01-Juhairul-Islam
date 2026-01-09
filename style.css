@@ -18,6 +18,10 @@ header{
 
 }
 
+.btn:hover{
+    background-color: #0f6607;
+}
+
 .nav-bar{
     display: flex;
     
@@ -122,6 +126,10 @@ header{
     color: rgba(255, 255, 255, 1);
     margin-left: 16px;
     
+}
+
+.hero-btn-2:hover{
+    background-color: ;
 }
 
 .card img{
