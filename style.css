@@ -3,6 +3,9 @@
     max-width: 1150px;
     margin: 0 auto;
 }
+header{
+    height:600px;
+}
 
 .btn{
     width: 140px ;
@@ -120,6 +123,143 @@
     margin-left: 16px;
     
 }
+
+.card img{
+    background-color:#F95555 ;
+    border-radius: 100px;
+    padding: 8px;
+    
+}
+
+
+
+
+.notes .text{
+  
+    text-align: center;
+    /* margin-bottom: 400px; */
+   margin-top:20px ;
+   
+
+    
+
+    
+}
+
+.notes .text h1{
+    font-size: 37px;
+}
+
+.notes .text p{
+    font-size: 12px;
+    color: #627382;
+    margin-top: 16px;
+}
+
+.card{
+    display: flex;
+    
+    margin-top: 40px;
+    gap: 22px;
+    margin-bottom: 20px;
+    
+    
+
+}
+
+.card-1 {
+   
+width: 300px;
+box-shadow: 0px 0px 2px 0px gray ;
+padding: 25px;
+border-radius: 8px;
+
+}
+
+.card-1 img{
+  margin-left: 80px;
+}
+
+.card-1 h3{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.card-1 p{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.card-2 {
+   
+width: 300px;
+box-shadow: 0px 0px 2px 0px gray ;
+padding: 25px;
+border-radius: 8px;
+
+}
+
+.card-2 img{
+  margin-left: 80px;
+}
+
+.card-2 h3{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.card-2 p{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.card-3 {
+   
+width: 300px;
+box-shadow: 0px 0px 2px 0px gray ;
+padding: 25px;
+border-radius: 8px;
+
+}
+
+.card-3 img{
+  margin-left: 80px;
+}
+
+.card-3 h3{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.card-3 p{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.card-4 {
+   
+width: 300px;
+box-shadow: 0px 0px 2px 0px gray ;
+padding: 25px;
+border-radius: 8px;
+
+}
+
+.card-4 img{
+  margin-left: 80px;
+}
+
+.card-4 h3{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.card-4 p{
+    text-align: center;
+    margin-top: 15px;
+}
+
+
 
 
 
