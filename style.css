@@ -261,7 +261,10 @@ border-radius: 8px;
 
 .picture-section{
     display: flex;
-    padding: 100px 0px;
+    padding: 80px 0px ;
+    
+    
+    
     
    
 }
@@ -271,6 +274,8 @@ border-radius: 8px;
 
     width: 350px;
     height: 350px;
+   
+    
 }
 
 .picture-section .pic-text{
@@ -346,6 +351,42 @@ border-radius: 8px;
 
 }
 
+.think-section{
+    background-color: #F7F6F2;
+    padding: 80px 0px;
+    border-radius: 12px;
+
+
+    
+
+}
+
+.think-text{
+   
+   width: 370px;
+}
+
+.think-text h2{
+    text-align: center;
+    font-weight: 700;
+    color: #001931;
+    margin-bottom: 15px;
+    letter-spacing:1px;
+
+}
+
+.think-text p{
+    text-align: center;
+    font-size: 10px;
+    color: #627382;
+    margin-bottom: 25px;
+}
+
+.think-text .think-btn{
+    display: flex;
+    width:170px ;
+    margin-bottom: 15px;
+}
 
 
 
